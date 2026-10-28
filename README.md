@@ -12,7 +12,9 @@ I developed a congestion experiment comparing a fixed charge with private recomm
 
 ### Survey data and economic policy
 
-My adolescent-health research combines survey responses with state policy and unemployment data. The cleaned pooled sample contains 400,742 responses across 43 sites in 2015, 2017, and 2019. The work includes regression and instrumental-variable analysis, diagnostics, and sensitivity checks.
+My adolescent-health research combines survey responses with state policy and unemployment data. The cleaned pooled sample contains 400,742 responses across 43 sites in 2015, 2017, and 2019. The original analysis uses Stata. A new Python/SQL companion documents source coding, sample construction, policy-data linkage, and validation, with a runnable synthetic example.
+
+[Survey workflow](https://github.com/wenlu33/survey-microdata-workflow) · [Case study](https://github.com/wenlu33/survey-microdata-workflow/blob/main/reports/case_study.md)
 
 ### Research communication
 
